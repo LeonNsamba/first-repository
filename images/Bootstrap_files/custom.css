@@ -1,0 +1,23 @@
+.column-1{
+	background-color: darkgray;
+}
+.column-2{
+	background-color: darkcyan;
+}
+.column-3{
+	background-color: rosybrown;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	text-align: center;
+	align-items: center;
+}
+.column-4{
+	background-color: darkkhaki;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.column-5{
+	background-color: darkred;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
